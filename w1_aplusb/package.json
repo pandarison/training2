@@ -1,0 +1,18 @@
+{
+    "title":"A + B",
+    "uid":"w1_aplusb",
+    "data":"data",
+    "languages":[
+        {
+            "language":"Python 3",
+            "description":"py3.md",
+            "judging":{
+                "judge":"voj",
+                "oj":"URAL",
+                "problem":"1000",
+                "lang":"Python 3.6",
+                "template":"template.py3"
+            }
+        },
+    ]
+}
