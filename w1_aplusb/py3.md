@@ -1,39 +1,26 @@
+####题目描述
+```
+定义一个函数solution(a,b), 返回a和b的和。
+```
 
-Showdown is a Javascript Markdown to HTML converter, based on the original works by John Gruber. It can be used client side (in the browser) or server side (with Node or io). 
+####参数
+```
+a: int
+b: int
+返回值: a和b的和
+```
 
+####示例
+```
+>>>solution(3,4)
+7
 
-# Installation
+>>>solution(4,1)
+5
+```
 
-## Download tarball
-
-You can download the latest release tarball directly from [releases][releases]
-
-## Bower
-
-    bower install showdown
-
-## npm (server-side)
-
-    npm install showdown
-
-## CDN
-
-You can also use one of several CDNs available: 
-
-* rawgit CDN
-
-        https://cdn.rawgit.com/showdownjs/showdown/<version tag>/dist/showdown.min.js
-
-* cdnjs
-
-        https://cdnjs.cloudflare.com/ajax/libs/showdown/<version tag>/showdown.min.js
-
-
-[sd-logo]: https://raw.githubusercontent.com/showdownjs/logo/master/dist/logo.readme.png
-[releases]: https://github.com/showdownjs/showdown/releases
-[atx]: http://www.aaronsw.com/2002/atx/intro
-[setext]: https://en.wikipedia.org/wiki/Setext
-
----------
-
-# Syntax
+####提示
+```
+1. 在右边的代码编辑框编辑你的代码, 你也可以使用自己喜欢的编辑器写好代码之后复制过来.
+2. 你不能使用print打印任何内容，这会影响到判题的结果。
+3. 你提交的代码必须包含solution函数，且该函数的参数个数要和题目匹配. 比如本题，你可以定义solution(a,b), solution(x,y), 但solution(a), solution()会导致代码提交错误。
