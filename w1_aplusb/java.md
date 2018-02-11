@@ -1,3 +1,4 @@
+#A + B
 ####题目描述
 定义一个包含 `int run(int, int)`函数的类Solution, 该函数返回a和b的和。
 
