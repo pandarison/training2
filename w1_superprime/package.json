@@ -1,0 +1,27 @@
+{
+    "title":"特殊质数",
+    "uid":"w1_superprime",
+    "publish_time":"13-Feb-2018",
+    "languages":{
+        "Python 3":{
+            "description":"py3.md",
+            "default":"default.py3",
+            "judging":{
+                "judge":"vijos",
+                "problem":"1359",
+                "lang":"py3",
+                "template":"template.py3"
+            }
+        },
+        "Java":{
+            "description":"java.md",
+            "default":"default.java",
+            "judging":{
+                "judge":"vijos",
+                "problem":"1359",
+                "lang":"java",
+                "template":"template.java"
+            }
+        }
+    }
+}
