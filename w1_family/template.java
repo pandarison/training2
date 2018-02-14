@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
-        Solution x = new Solution();
+        Solution solution = new Solution();
         int n = sc.nextInt();
         int x = sc.nextInt();
         int y = sc.nextInt();
