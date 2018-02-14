@@ -1,0 +1,28 @@
+{
+    "title":"家族",
+    "uid":"w1_family",
+    "publish_time":"14-Feb-2018",
+    "category":["数据结构"],
+    "languages":{
+        "Python 3":{
+            "description":"py3.md",
+            "default":"default.py3",
+            "judging":{
+                "judge":"vijos",
+                "problem":"1034",
+                "lang":"py3",
+                "template":"template.py3"
+            }
+        },
+        "Java":{
+            "description":"java.md",
+            "default":"default.java",
+            "judging":{
+                "judge":"vijos",
+                "problem":"1034",
+                "lang":"java",
+                "template":"template.java"
+            }
+        }
+    }
+}
