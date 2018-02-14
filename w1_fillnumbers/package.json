@@ -2,6 +2,7 @@
     "title":"填数",
     "uid":"w1_fillnumbers",
     "publish_time":"11-Feb-2018",
+    "category":["模拟"],
     "languages":{
         "Python 3":{
             "description":"py3.md",

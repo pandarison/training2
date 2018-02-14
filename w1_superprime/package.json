@@ -1,6 +1,7 @@
 {
     "title":"特殊质数",
     "uid":"w1_superprime",
+    "category":["数论"],
     "publish_time":"13-Feb-2018",
     "languages":{
         "Python 3":{
