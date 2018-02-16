@@ -9,6 +9,7 @@ public class Main {
         Solution solution = new Solution();
 
         int L = sc.nextInt();
+        solution.setRoad(L);
         int m = sc.nextInt();
         for (int i=0; i<m; i++) {
             int a = sc.nextInt();
