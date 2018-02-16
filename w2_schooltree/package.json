@@ -1,0 +1,28 @@
+{
+    "title":"校门外的树",
+    "uid":"w2_schooltree",
+    "publish_time":"16-Feb-2018",
+    "category":["简单"],
+    "languages":{
+        "Python 3":{
+            "description":"py3.md",
+            "default":"default.py3",
+            "judging":{
+                "judge":"vijos",
+                "problem":"1103",
+                "lang":"py3",
+                "template":"template.py3"
+            }
+        },
+        "Java":{
+            "description":"java.md",
+            "default":"default.java",
+            "judging":{
+                "judge":"vijos",
+                "problem":"1103",
+                "lang":"java",
+                "template":"template.java"
+            }
+        }
+    }
+}

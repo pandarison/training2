@@ -3,9 +3,12 @@ class Solution(object):
     def __init__(self):
         pass
 
-    def setFamily(self, x, y):
+    def setRoad(self, x):
         #Your code
 
-    def isFamily(self, x, y):
+    def removeTrees(self, x, y):
+        #Your code
+
+    def getTrees(self):
         #Your code
         
